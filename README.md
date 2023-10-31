@@ -5,21 +5,21 @@ This repository contains the code and datasets to reproduce the results and figu
 
 #### For people interested in using the trained prediction model, we implemented a [web server](https://spot.cs.hhu.de/) that allows an easy use of our trained model. The prediction tool can be run in a web-browser and does not require the installation of any software. Prediction results are usually ready within a few minutes.
 
-#Requirements for running the code
+### Requirements for running the code
 I suggest to install a new conda environment with all required python packages:
 
-#Creating new conda environment:
+### Creating new conda environment:
 conda create -n Transporter python=3.7
 
-#activate environment
+### activate environment
 conda activate Transporter
 
-#Install jupyter notebook
+### Install jupyter notebook
 conda install jupyter
 jupyter notebook
 
 
-#Installing python packages
+### Installing python packages
 conda create -n Transport python=3.7
 conda activate Transport
 conda install jupyter
