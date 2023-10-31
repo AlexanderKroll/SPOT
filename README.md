@@ -5,6 +5,17 @@ This repository contains the code and datasets to reproduce the results and figu
 
 #### For people interested in using the trained prediction model, we implemented a [web server](https://spot.cs.hhu.de/) that allows an easy use of our trained model. The prediction tool can be run in a web-browser and does not require the installation of any software. Prediction results are usually ready within a few minutes.
 
+## Downloading data folder
+Before you can run all scripts of this repository, you need to [download and unzip an additional data folder from Zenodo](https://doi.org/10.5281/zenodo.8358683).
+Afterwards, this repository should have the following strcuture:
+
+
+    ├── code
+    ├── data
+    ├── Supplementary Dataset 1.xlsx         
+    └── README.md
+
+
 ### Requirements for running the code
 I suggest to install a new conda environment with all required python packages:
 
