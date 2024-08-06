@@ -12,7 +12,8 @@ Afterwards, this repository should have the following strcuture:
 
     ├── code
     ├── data
-    ├── Supplementary Dataset 1.xlsx         
+    ├── S1_data.xlsx         
+    ├── S2_data.xlsx         
     └── README.md
 
 
